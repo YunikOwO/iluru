@@ -169,7 +169,7 @@ const personnages = [
   },
   {
     nomPerso: "Rizaka",
-    espece: "Hyène",
+    espece: "Léopard",
     sexe: "Femelle",
     age: 23,
     portrait_p: "Il s’agit d’une hyène au pelage beige clair avec des taches dorées. Sa queue elle, est orange avec des tâches foncées. Elle a des yeux violets et des cheveux oranges sur le haut et tirant progressivement vers le violet. Elle est assez grande (1m74) et est vive et rapide. Elle a également une grande agilité et a un don pour esquiver les coups. ",
