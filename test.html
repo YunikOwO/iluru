@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="UTF-8">
+  <title>Récupérer la taille de l'image actuelle</title>
+  <script type="text/javascript">
+      var img = document.querySelector("#myImg");
+      var taille = img.clientWidth;
+      var hauteur = img.clientHeight;
+      console.log("Width =" + taille + ", " + "Height=" + hauteur);
+      if(myImg && myImg.style) {
+        myImg.style.height = (hauteur/10) + 'px';
+        myImg.style.width = (taile/10) + 'px';
+        console.log(hauteur/10, taille/10);
+      }
+  </script>
+  </head>
+  <body>
+    <img src="Images\Jeil headshot.png" id="myImg">
+    <p><button type="button" onclick="getSize();">Récupérer la taille de l'image</button></p>
+    <p><button type="button" onclick="changeSize();">Changer la taille de l'image</button></p>
+  </body>
+</html>
