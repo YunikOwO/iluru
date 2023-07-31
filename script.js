@@ -100,7 +100,7 @@ const personnages = [
     aime: "le café, tuer ceux qui le méritent",
     aime_p: "tuer sans raison, paraître faible, Lei (de temps en temps), Sol",
     infos: "Elle est considérée comme l’une des seules à pouvoir rivaliser avec les krisopals alphas. C’est une assassin faisant partie des cercles (les meilleurs assassins au monde) dont elle est 5ème sur 12. Elle est très proche de Kareha. Elle est considérée comme l’être le plus puissant au monde. (exception faite des krisopals alphas.). Elle est extrêmement rapide, a une poigne surpuissante, et ne ressent pas la douleur",
-    nb_img: 2
+    nb_img: 3
   },
   {
     nomPerso: "Sol",
