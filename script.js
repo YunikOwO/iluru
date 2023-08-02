@@ -252,7 +252,7 @@ function affichage(data) {
       <div class="perso">
       <h3>
         <ul id="page-perso">
-          <li>Nom : <span onclick="affichage_perso(personnages)">${nomPerso[i]}</span></li>
+          <li>Nom : <span>${nomPerso[i]}</span></li>
           <li>Espèce : <span>${espece[i]}</span></li>
           <li>Sexe : <span>${sexe[i]}</span></li>
           <li>Âge : <span>${age[i]} ans</span></li>
@@ -382,9 +382,3 @@ if (document.location.search == '') {
 else {
   sub.addEventListener("click", (affichage_perso(personnages)));
 }
-
-
-
-
-
-
