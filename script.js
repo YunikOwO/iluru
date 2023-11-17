@@ -61,7 +61,7 @@ const personnages = [
     aime: "Son groupe, le calme, l’organisation",
     aime_p: "Burakku, qu’on lui désobéisse",
     infos: "Il est le chef d’un groupe d’élite opposé au roi actuel, et est également le deuxième des cercles, dont il est l’un des deux fondateurs. Il possède plusieurs pouvoirs en tant que krisopal originel, et maîtrise le feu. Il a une force et une vitesse extraordinaires, et peut invoquer des fils de feu et des projectiles enflammés, en plus d’avoir un bouclier. Son pouvoir de krisopal fait qu’il possède un deuxième oeil sur son épée, qui fait donc partie de son corps, ce qui veut dire qu’il faut transpercer les deux yeux pour le tuer. Enfin il possède une régénération très rapide.",
-    nb_img: 1
+    nb_img: 2
   },
   {
     nomPerso: "Ambiachi",
@@ -139,7 +139,7 @@ const personnages = [
     aime: "ses amis proches, tuer, les cookies, les personnes souriantes.",
     aime_p: "ses ennemis, sa famille, ses origines, ceux qui ne respectent pas les faibles.",
     infos: "C’est un assassin faisant partie des cercles (les meilleurs assassins au monde) depuis très longtemps dont il est 8ème sur 12. Bien qu’il ne soit que 8ème, il est plus fort que Hogone (7ème) et est presque aussi fort que Sol (6ème). Il n’a pas d’autre métier. Il est très ami avec Ayko, et font pas mal de missions en équipe. Il est extrêmement fort, précis et résiste à la plupart des poisons..Enfin il possède une régénération plutôt rapide.",
-    nb_img: 5
+    nb_img: 8
   },
   {
     nomPerso: "Asuta",
@@ -165,7 +165,7 @@ const personnages = [
     aime: "",
     aime_p: "",
     infos: "",
-    nb_img: 0
+    nb_img: 2
   },
   {
     nomPerso: "Rizaka",
